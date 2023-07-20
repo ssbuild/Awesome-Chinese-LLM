@@ -704,12 +704,3 @@ Awesome-Chinese-LLM
 ![](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt.svg)
   * 简介：该项目收集了免费的 ChatGPT 镜像网站列表，ChatGPT的替代方案，以及构建自己的ChatGPT的教程工具等。
 
-## Star History
-
-<a href="https://star-history.com/#HqWu-HITCS/Awesome-Chinese-LLM&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-Chinese-LLM&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-Chinese-LLM&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-Chinese-LLM&type=Date" />
-  </picture>
-</a>
