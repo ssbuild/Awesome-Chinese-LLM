@@ -45,7 +45,6 @@ Awesome-Chinese-LLM
     - [提示工程教程](#提示工程教程)
     - [LLM应用教程](#llm应用教程)
     - [LLM实战教程](#llm实战教程)
-    - [LLM高效微调教程](#llm高效微调教程)
   - [6. 相关仓库](#6-相关仓库)
 - [Star History](#star-history)
 
@@ -635,17 +634,7 @@ Awesome-Chinese-LLM
   * 简介：该项目提供了一系列LLM实战的教程和代码，包括LLM的训练、推理、微调以及LLM生态相关的一些技术文章等。
  
 
-#### LLM高效微调教程
 
-* LLaMA Efficient Tuning：
-  * 地址：https://github.com/hiyouga/LLaMA-Efficient-Tuning
-![](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning.svg)
-  * 简介：该项目提供了易于使用的基于PEFT的LLaMA微调框架，实现了包括全参数，LoRA，QLoRA等的预训练，指令微调和RLHF，并支持LLaMA, BLOOM, Falcon, Baichuan, InternLM等底座模型。
-
-* ChatGLM Efficient Tuning：
-  * 地址：https://github.com/hiyouga/ChatGLM-Efficient-Tuning
-![](https://img.shields.io/github/stars/hiyouga/ChatGLM-Efficient-Tuning.svg)
-  * 简介：该项目提供了基于PEFT的高效ChatGLM微调，支持LoRA，P-Tuning V2，全参数微调等模式，并适配了多个微调数据集。
 
 
  ###  6. <a name='相关仓库'></a>相关仓库
